@@ -1,5 +1,5 @@
 # 001) Pushbutton
-Simple Verilog code to get started with the FPGA. This code will control the 3 onboard LED of the FPGA with the onboard pushbutton.
+Verilog code to get started with the FPGA. This code will control the 3 onboard LED of the FPGA with the onboard pushbutton.
 Blog: [FPGA](https://danielalapat.hashnode.dev/fpga)
 
 # 002) DIP switch
